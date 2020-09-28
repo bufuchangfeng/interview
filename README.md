@@ -188,7 +188,7 @@
 ## 真实问题
 
 * LSTM为什么能解决梯度消失和梯度爆炸
-* 机器学习中有哪些[算法](https://www.nowcoder.com/jump/super-jump/word?word=算法)需要进行归一化
+* 机器学习中有哪些算法需要进行归一化
 * softmax减去最大数字不变的证明
 * python深拷贝和浅拷贝
 * python中的反射
